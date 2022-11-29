@@ -1,0 +1,2 @@
+exercises:
+    1_Zadania: { max_points: 3.5, disabled: false, grading: [{ points: 0.75, criterion: 'Karty z użytkownikami: Dodanie odpowiedniego cienia' }, { points: 0.75, criterion: 'Karty z użytkownikami: Zaokrąglenie rogów' }, { points: 1, criterion: 'Awatar: Okrągłe awatary' }, { points: 1, criterion: 'Linki: Ostylowanie zgodnie ze specyfikacją' }] }

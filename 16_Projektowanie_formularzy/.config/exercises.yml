@@ -1,0 +1,2 @@
+exercises:
+    1_Zadania: { max_points: 2, disabled: false, grading: [{ points: 0.5, criterion: 'Pole Name zgodne ze specyfikacją' }, { points: 0.5, criterion: 'Pole Email zgodne ze specyfikacją' }, { points: 0.5, criterion: 'Pole Message zgodne ze specyfikacją' }, { points: 0.5, criterion: 'Element Button zgodny ze specyfikacją' }] }

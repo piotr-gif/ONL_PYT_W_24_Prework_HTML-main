@@ -1,0 +1,2 @@
+exercises:
+    1_Zadania: { max_points: 2, disabled: false, grading: [{ points: 1, criterion: 'Dołączenie stylów CSS do dokumentu HTML w odpowiedni sposób i w head strony' }, { points: 1, criterion: 'Zmiana koloru tła body na darkgoldenrod' }] }

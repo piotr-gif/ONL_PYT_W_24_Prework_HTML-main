@@ -1,0 +1,2 @@
+exercises:
+    1_Zadania: { max_points: 5, disabled: false, grading: [{ points: 0.5, criterion: 'Treść: Ustawienie maksymalnej szerokości 80%' }, { points: 0.5, criterion: 'Treść: Ustawienie paddingu 50px' }, { points: 1, criterion: 'Treść: Dodanie box-sizing: border-box;' }, { points: 0.5, criterion: 'Przyciski: Ustawienie paddingu 20px 40px' }, { points: 0.5, criterion: 'Przyciski: Margines dolny 20px' }, { points: 1, criterion: 'Przyciski: Dodanie display: inline-block;' }, { points: 1, criterion: 'Galeria: Dodanie właściwości overflow' }] }

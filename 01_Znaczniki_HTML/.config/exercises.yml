@@ -1,0 +1,2 @@
+exercises:
+    1_Komentarze: { max_points: 1, disabled: false, grading: [{ points: 0.5, criterion: 'Użycie poprawnych znaczników komentarza w HTML' }, { points: 0.5, criterion: 'Zakomentowanie odpowiednich linii' }] }

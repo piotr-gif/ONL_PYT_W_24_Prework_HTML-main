@@ -1,0 +1,2 @@
+exercises:
+    1_Zadania: { max_points: 2.5, disabled: false, grading: [{ points: 1, criterion: 'Wyczyszczenie domyślnych stylów dla listy' }, { points: 0.5, criterion: 'Ustawienie elementów obok siebie z użyciem flex' }, { points: 1, criterion: 'Zmiana na punktory numeryczne, bez ingerencji w HTML' }] }

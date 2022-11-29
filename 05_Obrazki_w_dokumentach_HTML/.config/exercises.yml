@@ -1,0 +1,2 @@
+exercises:
+    1_Obrazki: { max_points: 2, disabled: false, grading: [{ points: 1, criterion: 'Wstawienie 4 obrazków na stronę (img src)' }, { points: 1, criterion: 'Dodanie do każdego atrybutu alt' }] }

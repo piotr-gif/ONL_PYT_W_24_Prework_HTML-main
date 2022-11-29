@@ -1,0 +1,2 @@
+exercises:
+    1_Zadania: { max_points: 2, disabled: false, grading: [{ points: 1, criterion: 'Usunięcie domyślnego obramowania' }, { points: 0.5, criterion: 'Dodanie stylowania do elementów th' }, { points: 0.5, criterion: 'Dodanie stylowania do elementów td' }] }

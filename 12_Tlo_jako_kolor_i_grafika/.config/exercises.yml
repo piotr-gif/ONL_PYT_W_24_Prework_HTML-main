@@ -1,0 +1,3 @@
+exercises:
+    1_Gradient: { max_points: 2, disabled: false, grading: [{ points: 0.5, criterion: 'Nastawienie szerokości i wysokości' }, { points: 1.5, criterion: 'Dodanie własnego gradientu' }] }
+    2_Kot: { max_points: 3.5, disabled: false, grading: [{ points: 0.5, criterion: 'Nastawienie szerokości i wysokości' }, { points: 1, criterion: 'Dodanie obrazka jako tło' }, { points: 1, criterion: 'Wycentrowanie w pionie i poziomie' }, { points: 1, criterion: 'Pokrycie całego elementu (cover)' }] }

@@ -1,0 +1,21 @@
+body {
+    padding:20px;
+    font-family: sans-serif;
+}
+
+table {
+width: 100%;
+  border: 2px solid #888;
+  border-collapse: collapse ;
+  border-spacing: 8px;
+  }
+  table th {
+  border: 1px solid #aaa;
+  background-color: #ffd700;
+  padding: 20px;
+  }
+  table td {
+    border: 1px solid #aaa;
+    padding: 20px;
+ }
+.tab {

@@ -1,0 +1,5 @@
+exercises:
+    1_Nagłówki: { max_points: 1, disabled: false, grading: [{ points: 0.8, criterion: 'Stworzenie 3 nagłówków: h1, h2, h3' }, { points: 0.2, criterion: 'Wypełnienie ich przykładowym tekstem' }] }
+    2_Paragrafy: { max_points: 1, disabled: false, grading: [{ points: 0.8, criterion: 'Stworzenie 3 paragrafów' }, { points: 0.2, criterion: 'Wypełnienie ich przykładowym tekstem' }] }
+    '3_Listy ul': { max_points: 1, disabled: false, grading: [{ points: 0.8, criterion: 'Stworzenie listy ul z trzema li' }, { points: 0.2, criterion: 'Wypełnienie ich przykładowym tekstem' }] }
+    '4_Listy ol': { max_points: 1, disabled: false, grading: [{ points: 0.8, criterion: 'Stworzenie listy ol z trzema li' }, { points: 0.2, criterion: 'Wypełnienie ich przykładowym tekstem' }] }

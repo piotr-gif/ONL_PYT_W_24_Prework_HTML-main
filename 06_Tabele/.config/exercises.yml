@@ -1,0 +1,3 @@
+exercises:
+    '1_Kółko i krzyżyk': { max_points: 1, disabled: false, grading: [{ points: 1, criterion: 'Stworzenie poprawnej struktury tabeli' }] }
+    2_Kalendarz: { max_points: 1, disabled: false, grading: [{ points: 1, criterion: 'Stworzenie poprawnej struktury tabeli' }] }

@@ -1,0 +1,2 @@
+exercises:
+    1_Zadania: { max_points: 3.5, disabled: false, grading: [{ points: 0.5, criterion: 'Nagłówek strony: Użycie display: flex;' }, { points: 1, criterion: 'Nagłówek strony: Nadanie właściwości justify-content: space-between;' }, { points: 1, criterion: 'Nagłówek strony: Nadanie właściwości align-items: center;' }, { points: 0.5, criterion: 'Menu: Użycie display: flex;' }, { points: 0.5, criterion: 'Artykuły: Użycie display: flex;' }] }

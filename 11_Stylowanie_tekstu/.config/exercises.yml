@@ -1,0 +1,2 @@
+exercises:
+    1_Zadania: { max_points: 4.5, disabled: false, grading: [{ points: 1.5, criterion: 'Kontener: Zastosowanie odpowiednich stylów do elementu .container' }, { points: 1.5, criterion: 'Nagłówki: Zastosowanie odpowiednich stylów do elementów h1, h2' }, { points: 1.5, criterion: 'Galeria: Zastosowanie odpowiednich stylów do elementów cite' }] }

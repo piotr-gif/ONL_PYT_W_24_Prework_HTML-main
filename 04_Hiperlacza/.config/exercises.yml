@@ -1,0 +1,3 @@
+exercises:
+    '1_Strona autora': { max_points: 2, disabled: false, grading: [{ points: 1, criterion: 'Wstawienie w odpowiednim miejscu elementu li' }, { points: 1, criterion: 'Wstawienie w odpowiednim miejscu elementu a z atrybutem href="author.html"' }] }
+    '2_Rozdziały książki': { max_points: 2, disabled: false, grading: [{ points: 1, criterion: 'Stworzenie struktury ul > li > a' }, { points: 1, criterion: 'Odpowiednie ustawienie atrybutu href każdego z linków tak by kierował do odpowiedniej sekcji na stronie' }] }

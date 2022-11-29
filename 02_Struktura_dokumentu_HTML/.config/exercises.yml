@@ -1,0 +1,3 @@
+exercises:
+    '1_Kodowanie liter': { max_points: 1, disabled: false, grading: [{ points: 0.5, criterion: 'Umieszczenie znacznika meta w head strony' }, { points: 0.5, criterion: 'Nadanie atrybutu charset="utf-8"' }] }
+    '2_Tytuł strony': { max_points: 1, disabled: false, grading: [{ points: 0.5, criterion: 'Wstawienie znacznika title w head strony' }, { points: 0.5, criterion: 'Wypełnienie znacznika przykładowym tekstem' }] }
